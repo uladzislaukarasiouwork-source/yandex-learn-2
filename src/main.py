@@ -8,7 +8,7 @@ from src.model import TaxiFareModel
 Глобальная переменная DATA_PATH -- проблема в разработке
 Нужно сделать параметром скрипта или вынести в конфигурационный файл
 Также не существует data/main.csv 
-Наш путь data/data.csv
+Наш путь data/uber.csv
 """
 DATA_PATH = "data/main.csv"
 
